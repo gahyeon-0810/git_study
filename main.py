@@ -1,1 +1,1 @@
-print("local 1")
+print("remote pull test")
