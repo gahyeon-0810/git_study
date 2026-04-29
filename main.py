@@ -1,1 +1,1 @@
-print("remote pull test")
+print("fetch test")
